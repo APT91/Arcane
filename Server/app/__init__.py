@@ -1,4 +1,3 @@
-import os, sys, socket, json, hashlib, colorama, PIL
 import customtkinter as ctk
 
 ctk.set_appearance_mode('dark')
@@ -17,7 +16,7 @@ class SettingsWindow(ctk.CTkToplevel):
 class AboutWindow(ctk.CTkToplevel):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        
+
 
 #Main Window
 class App(ctk.CTk):
