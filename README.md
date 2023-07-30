@@ -1,2 +1,2 @@
 # Arcane
-My attempt at making a C2 Framework in python
+My first attempt of making a RAT in python.
